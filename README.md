@@ -50,7 +50,7 @@ git lfs pull
 
 ### Step 2: Convert Datasets to EVERYFISH-COCO
 
-See [MSCOCO_TO_EVERYFISHCOCO_README.md](mscoco_to_everyfishcoco/MSCOCO_TO_EVERYFISH-COCO_README) for detailed conversion instructions.
+See [MSCOCO_TO_EVERYFISHCOCO_README.md](mscoco_to_everyfishcoco/MSCOCO_TO_EVERYFISH-COCO_README.md) for detailed conversion instructions.
 
 ## Running Inference
 
