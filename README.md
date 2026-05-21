@@ -31,8 +31,8 @@ Two sample datasets are available for use:
 
 #### AutoFish
 
-- **Paper:** https://vap.aau.dk/autofish/
-- **Download:** https://huggingface.co/datasets/vapaau/autofish
+- [**Paper**](https://vap.aau.dk/autofish/)
+- [**Download**](https://huggingface.co/datasets/vapaau/autofish)
 
 **Download instructions:**
 
@@ -45,12 +45,12 @@ git lfs pull
 
 #### FDWE
 
-- **Paper:** https://academic.oup.com/icesjms/article/80/7/1911/7240285
-- **Download:** https://data.4tu.nl/datasets/a6d5a40e-0358-47cf-9ec1-335df0e4a3c3
+- [**Paper**](https://academic.oup.com/icesjms/article/80/7/1911/7240285)
+- [**Download**](https://data.4tu.nl/datasets/a6d5a40e-0358-47cf-9ec1-335df0e4a3c3)
 
 ### Step 2: Convert Datasets to EVERYFISH-COCO
 
-See [MSCOCO_TO_EVERYFISHCOCO_README.md](mscoco_to_everyfishcoco/MSCOCO_TO_EVERYFISHCOCO_README.md) for detailed conversion instructions.
+See [MSCOCO_TO_EVERYFISHCOCO_README.md](mscoco_to_everyfishcoco/MSCOCO_TO_EVERYFISH-COCO_README) for detailed conversion instructions.
 
 ## Running Inference
 
