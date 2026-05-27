@@ -1,16 +1,16 @@
 # Dataset Information
-dataset_name: "FDWE"
+dataset_name: ""
 
-weights_path: "weights/FDWE/masks_20260520_120421_C9_TTNB_ResNet50-SGD_060.pt"
-batch_size: 64
+weights_path: "weights/FDWE/ResNet50_boxes_weights.pt"
+batch_size: 16
 
 # Directory containing fish crops extracted from the original images
-crops_dir: "/home/zedbox2/fdwe_crops_masks/fdwe_crops_test/crops"
+crops_dir: ""
 
 # JSON file mapping class IDs to species names
-categories_file: "/home/zedbox2/fdwe_train/info/categories.json"
+categories_file: ""
 
-output_dir: "/home/zedbox2/results2"
+output_dir: ""
 
-ground_truth_csv: "/home/zedbox2/fdwe_crops_masks/fdwe_crops_test/ground_truth.csv"
-
+# ground_truth.csv file created from extract_crops.py script
+ground_truth_csv: ""

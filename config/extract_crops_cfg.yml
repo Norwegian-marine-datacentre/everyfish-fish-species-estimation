@@ -1,15 +1,15 @@
 # Dataset Information
-dataset_name: "FDWE"
+dataset_name: ""
 
 annotation_type: "detection" # "detection" or "segmentation"
 
 # Directory containing EVERYFISH-COCO format annotation JSON files
-annotations_dir: "/home/zedbox2/fdwe_test/annotations"
+annotations_dir: ""
 
 # Directory containing image files
-images_dir: "/home/zedbox2/fdwe_test/images"
+images_dir: ""
 
 # JSON file mapping class IDs to species names
-categories_file: "/home/zedbox2/fdwe_test/info/categories.json"
+categories_file: ""
 
-output_dir: "/home/zedbox2/fdwe_crops_test/"
+output_dir: ""
