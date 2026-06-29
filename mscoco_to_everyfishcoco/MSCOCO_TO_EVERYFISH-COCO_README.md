@@ -1,6 +1,6 @@
 # COCO to EVERYFISH-COCO Converter
 
-A Python script that converts MS-COCO format annotations into EVERYFISH-COCO format.
+A Python script that converts MS-COCO format annotations into EVERYFISH-COCO format ([Zhou _et al._,2026](https://doi.org/10.21335/NMDC-450800267)).
 
 ## Overview
 
