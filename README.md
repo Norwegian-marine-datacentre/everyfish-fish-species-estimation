@@ -190,7 +190,7 @@ The fish_identification pipeline generates the following .csv files in the outpu
 * AZTI
 
 ## License
-
+This project is licensed under the European Union Public Licence (EUPL) v1.2 or later.
 
 ## Acknowledgement
 
